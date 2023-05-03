@@ -1,5 +1,5 @@
 # ETL
-Esse código é uma demonstração de um processo de ETL (Extração, Transformação e Carga) para o conjunto de dados Iris.
+Esse código é uma demonstração de um processo de ETL (Extração, Transformação e Carga) para um conjunto de dados Iris.
 
 Na primeira etapa, as bibliotecas necessárias são importadas e o dataset Iris é carregado.
 
